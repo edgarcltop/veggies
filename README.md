@@ -54,8 +54,4 @@ We ask farmers money to register and use our application (we can make profit and
 
 <a href="https://ibb.co/zHDrk44"><img src="https://i.ibb.co/n8tbWLL/Screenshot-from-2020-11-29-20-07-05.png" alt="Screenshot-from-2020-11-29-20-07-05" border="0"></a>
 
-Made with ❤️ in Berlin by
 
-- [Bido](https://github.com/bidodev)
-- [Simona](https://github.com/SimonaHriscu)
-- [Kevin](https://github.com/kevSchmidt)
